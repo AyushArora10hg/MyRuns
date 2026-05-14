@@ -7,7 +7,7 @@
 
 A comprehensive Android fitness tracking application that captures and displays physical activities using GPS tracking, manual entry, and machine learning-based automatic activity recognition.
 
-📥 Download APK: [**MyRuns APK**](https://1drv.ms/u/c/931d74c7905f6350/IQCOFYicNJH_QItd6ZWhgI6XAaHU56tAEio1UHPHTz9AHCo?e=xZ8mHe)
+📥 Download APK: [**MyRuns APK**](https://drive.google.com/file/d/14auI793d4SWWj1dYglIW37n-HGBv5-P_/view?usp=sharing)
 
 ---
 
@@ -493,5 +493,5 @@ This project is developed as part of an academic course assignment for education
 
 **Built with ❤️ for Android Development Course**
 
-*Last Updated: December 2025*
+*Last Updated: May 2026*
 
